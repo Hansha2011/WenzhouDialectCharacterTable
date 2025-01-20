@@ -1,0 +1,2 @@
+# WenzhouDialectCharacterTable
+WenzhouDialectCharacterTable (温州方言用字码表)
